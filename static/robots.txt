@@ -1,0 +1,10 @@
+User-agent: * 
+Disallow: /search
+Sitemap: http://www.dfdy5.com/sitemap.xml
+Sitemap: http://www.dfdy5.com/sitemap1.xml
+Sitemap: http://www.dfdy5.com/sitemap2.xml
+Sitemap: http://www.dfdy5.com/sitemap3.xml
+Sitemap: http://wap.dfdy5.com/sitemap.xml
+Sitemap: http://wap.dfdy5.com/sitemap1.xml
+Sitemap: http://wap.dfdy5.com/sitemap2.xml
+Sitemap: http://wap.dfdy5.com/sitemap3.xml

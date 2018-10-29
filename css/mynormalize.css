@@ -1,0 +1,10 @@
+html,body,p,ul,ol,li,h1,h2,h3,h4,h5,h6,span,em,i,strong{margin:0;padding:0;font-weight:normal;font-style:normal;}
+ol,ul,li{list-style:none;}
+a{text-decoration:none;color:#333;}
+img{outline:0 none;vertical-align: middle;border:0 none;}
+.ff9250{color:#ff9250;}
+html{font-family: "Microsoft YaHei", SimSun;color:#313030;}
+*{-webkit-tap-highlight-color: rgba(0,0,0,0);-webkit-tap-highlight-color: transparent;box-sizing: border-box;}
+input{-webkit-appearance:none;}
+input::-webkit-search-cancel-button {display: none;}
+.clearfix{clear:both;}
